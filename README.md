@@ -1,2 +1,2 @@
 # Detecting-Fake-News-with-Python
-This advanced python project of detecting fake news deals with fake and real news. Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
+This Python Project Classifies the News Data into REAL and FAKE. Using sklearn, a TfidfVectorizer is built on our dataset. Then, a PassiveAggressive Classifier is fit to the model. In the end, the accuracy score and the confusion matrix tells how good the model is.
